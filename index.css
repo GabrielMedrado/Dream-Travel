@@ -45,6 +45,7 @@ a {
   color: black;
   opacity: 1;
   background-color: #fdff00;
+  margin-right: 10px;
 }
 
 a:hover,
